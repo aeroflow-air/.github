@@ -16,3 +16,4 @@ AeroFlow Air is a fictional airport, built as an Azure developer platform showca
 - Site: https://aeroflow-air.github.io/site-customer/
 - Engineering blog feed (RSS): https://aeroflow-air.github.io/site-customer/rss.xml
 - Questions, or want to challenge a decision? [Discussions in the platform handbook](https://github.com/aeroflow-air/platform-handbook/discussions)
+- Follow Tony on LinkedIn, for new posts and decisions: https://www.linkedin.com/in/anthonyjoanes
